@@ -1,5 +1,188 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "CI4Um89OQvc",
+            "name": "Gil Scott-Heron - Pieces of a Man (Full Album 1971) [CI4Um89OQvc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Gil Scott-Heron - Pieces of a Man (Full Album 1971) [CI4Um89OQvc].mp4",
+            "size": 36.914947999999995,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Gil Scott-Heron - Pieces of a Man (Full Album 1971) [CI4Um89OQvc].mp4"
+        },
+        {
+            "id": "EAMoiDHRJIU",
+            "name": "LA COMPARSA PACO GODOY Y LA SINF\u00d3NICA DE LOJA DE ERNESTO LECUONA [EAMoiDHRJIU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/LA COMPARSA PACO GODOY Y LA SINF\u00d3NICA DE LOJA DE ERNESTO LECUONA [EAMoiDHRJIU].mp4",
+            "size": 12.837736999999999,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/LA COMPARSA PACO GODOY Y LA SINF\u00d3NICA DE LOJA DE ERNESTO LECUONA [EAMoiDHRJIU].mp4"
+        },
+        {
+            "id": "M_s-49rNCdw",
+            "name": "Judas Priest - Freewheel Burning (AC3 Stereo) [M_s-49rNCdw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Judas Priest - Freewheel Burning (AC3 Stereo) [M_s-49rNCdw].mp4",
+            "size": 17.416145,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Judas Priest - Freewheel Burning (AC3 Stereo) [M_s-49rNCdw].mp4"
+        },
+        {
+            "id": "Qr_bv0YeUZ4",
+            "name": "Charles Aznavour 2 6 1963 \u2022 Club Domino [Qr_bv0YeUZ4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Charles Aznavour 2 6 1963 \u2022 Club Domino [Qr_bv0YeUZ4].mp4",
+            "size": 94.548977,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Charles Aznavour 2 6 1963 \u2022 Club Domino [Qr_bv0YeUZ4].mp4"
+        },
+        {
+            "id": "DzoFKG7ITRg",
+            "name": "Jean Rondeau & Thomas Dunford record \uff02Les Baricades M\u00efst\u00e9rieuses\uff02 by Fran\u00e7ois Couperin [DzoFKG7ITRg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Jean Rondeau & Thomas Dunford record \uff02Les Baricades M\u00efst\u00e9rieuses\uff02 by Fran\u00e7ois Couperin [DzoFKG7ITRg].mp4",
+            "size": 33.455282,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Jean Rondeau & Thomas Dunford record \uff02Les Baricades M\u00efst\u00e9rieuses\uff02 by Fran\u00e7ois Couperin [DzoFKG7ITRg].mp4"
+        },
+        {
+            "id": "IxM04Y4XSFs",
+            "name": "Os Afro-Sambas (Full Album) - Baden Powell [IxM04Y4XSFs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Os Afro-Sambas (Full Album) - Baden Powell [IxM04Y4XSFs].mp4",
+            "size": 70.114587,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Os Afro-Sambas (Full Album) - Baden Powell [IxM04Y4XSFs].mp4"
+        },
+        {
+            "id": "o_91wsIFS8I",
+            "name": "La Bionda Sandstorm, dall'Album La Bionda (1978) [o_91wsIFS8I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/La Bionda Sandstorm, dall'Album La Bionda (1978) [o_91wsIFS8I].mp4",
+            "size": 8.343433,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/La Bionda Sandstorm, dall'Album La Bionda (1978) [o_91wsIFS8I].mp4"
+        },
+        {
+            "id": "rX_NFOLYxb8",
+            "name": "Victor Jara - Ni Chicha Ni Limon\u00e1 [rX_NFOLYxb8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Victor Jara - Ni Chicha Ni Limon\u00e1 [rX_NFOLYxb8].mp4",
+            "size": 3.75282,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Victor Jara - Ni Chicha Ni Limon\u00e1 [rX_NFOLYxb8].mp4"
+        },
+        {
+            "id": "FZQnmv_Hbio",
+            "name": "Coleman Hawkins Quintet 1964 \uff02Caravan\uff02 \uff5c Papa Jo Jones Drum Solo \uff5c Harry \uff02Sweets\uff02 Edison \uff5c England [FZQnmv_Hbio].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Coleman Hawkins Quintet 1964 \uff02Caravan\uff02 \uff5c Papa Jo Jones Drum Solo \uff5c Harry \uff02Sweets\uff02 Edison \uff5c England [FZQnmv_Hbio].mp4",
+            "size": 29.141992,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Coleman Hawkins Quintet 1964 \uff02Caravan\uff02 \uff5c Papa Jo Jones Drum Solo \uff5c Harry \uff02Sweets\uff02 Edison \uff5c England [FZQnmv_Hbio].mp4"
+        },
+        {
+            "id": "7vHpLcjNY6A",
+            "name": "Fela Ransome Kuti and His Koola Lobitos - (1965) - [Full Album] [7vHpLcjNY6A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Fela Ransome Kuti and His Koola Lobitos - (1965) - [Full Album] [7vHpLcjNY6A].mp4",
+            "size": 48.596379999999996,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Fela Ransome Kuti and His Koola Lobitos - (1965) - [Full Album] [7vHpLcjNY6A].mp4"
+        },
+        {
+            "id": "7fgR-vqy6g8",
+            "name": "ALU Jon Jonki Jon [7fgR-vqy6g8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/ALU Jon Jonki Jon [7fgR-vqy6g8].mp4",
+            "size": 24.560890999999998,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/ALU Jon Jonki Jon [7fgR-vqy6g8].mp4"
+        },
+        {
+            "id": "H2Op2oKVCEo",
+            "name": "Fela Kuti - Everything Scatter [H2Op2oKVCEo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Fela Kuti - Everything Scatter [H2Op2oKVCEo].mp4",
+            "size": 11.607199,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Fela Kuti - Everything Scatter [H2Op2oKVCEo].mp4"
+        },
+        {
+            "id": "4v1qR6RuMac",
+            "name": "Yellowman - King Yellowman Full Album [4v1qR6RuMac].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Yellowman - King Yellowman Full Album [4v1qR6RuMac].mp4",
+            "size": 48.009156,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Yellowman - King Yellowman Full Album [4v1qR6RuMac].mp4"
+        },
+        {
+            "id": "c6uVXJ3x2Sk",
+            "name": "Evelyn Thomas - High Energy [c6uVXJ3x2Sk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Evelyn Thomas - High Energy [c6uVXJ3x2Sk].mp4",
+            "size": 10.187972,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Evelyn Thomas - High Energy [c6uVXJ3x2Sk].mp4"
+        },
+        {
+            "id": "d8QzACfFGlw",
+            "name": "Pharaoh's Dance [d8QzACfFGlw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Pharaoh's Dance [d8QzACfFGlw].mp4",
+            "size": 28.825547999999998,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Pharaoh's Dance [d8QzACfFGlw].mp4"
+        },
+        {
+            "id": "A2jZAWvPu6U",
+            "name": "Grandes Boleros  - Boleros a mis padres - Historia (Full Album\u29f8\u00c1lbum Completo) [A2jZAWvPu6U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Grandes Boleros  - Boleros a mis padres - Historia (Full Album\u29f8\u00c1lbum Completo) [A2jZAWvPu6U].mp4",
+            "size": 95.232546,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Grandes Boleros  - Boleros a mis padres - Historia (Full Album\u29f8\u00c1lbum Completo) [A2jZAWvPu6U].mp4"
+        },
+        {
+            "id": "IIBLwsXa6Jo",
+            "name": "SpandauBallet - 1982 \u29f8LP Album [IIBLwsXa6Jo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/SpandauBallet - 1982 \u29f8LP Album [IIBLwsXa6Jo].mp4",
+            "size": 51.634114999999994,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/SpandauBallet - 1982 \u29f8LP Album [IIBLwsXa6Jo].mp4"
+        },
+        {
+            "id": "l-4uu2ZjlII",
+            "name": "Anne Clark - Heaven [l-4uu2ZjlII].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Anne Clark - Heaven [l-4uu2ZjlII].mp4",
+            "size": 6.604608,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Anne Clark - Heaven [l-4uu2ZjlII].mp4"
+        },
+        {
+            "id": "1weH-95cJCI",
+            "name": "First Love - Party Lights (7\uff02 Version) (1982) [1weH-95cJCI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/First Love - Party Lights (7\uff02 Version) (1982) [1weH-95cJCI].mp4",
+            "size": 40.519867999999995,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/First Love - Party Lights (7\uff02 Version) (1982) [1weH-95cJCI].mp4"
+        },
+        {
+            "id": "r5HaWgKEV58",
+            "name": "Anne Clark - Our Darkness (Original Version 1984) [r5HaWgKEV58].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Anne Clark - Our Darkness (Original Version 1984) [r5HaWgKEV58].mp4",
+            "size": 6.396885999999999,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Anne Clark - Our Darkness (Original Version 1984) [r5HaWgKEV58].mp4"
+        },
+        {
+            "id": "L3kEnoXaYYo",
+            "name": "Blue Monk [L3kEnoXaYYo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Blue Monk [L3kEnoXaYYo].mp4",
+            "size": 14.23616,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Blue Monk [L3kEnoXaYYo].mp4"
+        },
+        {
+            "id": "mo5QywHt5fo",
+            "name": "Ethiopian Jazz w\u29f8 The Grey Area [Through The Years] [mo5QywHt5fo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Ethiopian Jazz w\u29f8 The Grey Area [Through The Years] [mo5QywHt5fo].mp4",
+            "size": 88.70049,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Ethiopian Jazz w\u29f8 The Grey Area [Through The Years] [mo5QywHt5fo].mp4"
+        },
+        {
+            "id": "MhMGw-wCCak",
+            "name": "Bebo Vald\u00e9s. Perlas Cubanas #14 (Full Album\u29f8\u00c1lbum Completo) Latin Big Band [MhMGw-wCCak].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Bebo Vald\u00e9s. Perlas Cubanas #14 (Full Album\u29f8\u00c1lbum Completo) Latin Big Band [MhMGw-wCCak].mp4",
+            "size": 45.831900999999995,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Bebo Vald\u00e9s. Perlas Cubanas #14 (Full Album\u29f8\u00c1lbum Completo) Latin Big Band [MhMGw-wCCak].mp4"
+        },
+        {
+            "id": "RK0fLaxOBHI",
+            "name": "Victor Jara - Deja la Vida Volar (audio oficial) [RK0fLaxOBHI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Victor Jara - Deja la Vida Volar (audio oficial) [RK0fLaxOBHI].mp4",
+            "size": 4.174459,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Victor Jara - Deja la Vida Volar (audio oficial) [RK0fLaxOBHI].mp4"
+        },
+        {
+            "id": "JAAb8cdDRT0",
+            "name": "BARRICADA 1983 EN LA SILLA ELECTRICA VIDEOCLIP OFICIAL [BARRICADA 1983 NOCHE DE ROCK & ROLL] [JAAb8cdDRT0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/BARRICADA 1983 EN LA SILLA ELECTRICA VIDEOCLIP OFICIAL [BARRICADA 1983 NOCHE DE ROCK & ROLL] [JAAb8cdDRT0].mp4",
+            "size": 74.185042,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/BARRICADA 1983 EN LA SILLA ELECTRICA VIDEOCLIP OFICIAL [BARRICADA 1983 NOCHE DE ROCK & ROLL] [JAAb8cdDRT0].mp4"
+        },
+        {
+            "id": "Uafwe0vjf8U",
+            "name": "Chopin\uff1a Andante spianato et Grande Polonaise brillante in E-Flat Major, Op. 22 [Uafwe0vjf8U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i5/videos/Chopin\uff1a Andante spianato et Grande Polonaise brillante in E-Flat Major, Op. 22 [Uafwe0vjf8U].mp4",
+            "size": 23.271224999999998,
+            "url": "https://github.com/circuitalmynds/music_i5/raw/main/videos/Chopin\uff1a Andante spianato et Grande Polonaise brillante in E-Flat Major, Op. 22 [Uafwe0vjf8U].mp4"
+        }
+    ],
+    "total_size": 929.1003669999998
 }
